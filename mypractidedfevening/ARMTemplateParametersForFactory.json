@@ -1,0 +1,66 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "mypractidedfevening"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLS_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorageMahiLS_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabase2_password": {
+			"value": ""
+		},
+		"AzureSqlDatabaseLS_password": {
+			"value": ""
+		},
+		"LS_ADLS_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorageLS_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorageLSwithKV_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorageMahiLS_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		},
+		"AzureKeyVaultLS_properties_typeProperties_baseUrl": {
+			"value": "https://mydevkeyvaultnew.vault.azure.net/"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_server": {
+			"value": "julybatchpracticeserver.database.windows.net"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_database": {
+			"value": "adventureworks"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_userName": {
+			"value": "dbadmin"
+		},
+		"AzureSqlDatabaseLS_properties_typeProperties_server": {
+			"value": "julybatchpracticeserver.database.windows.net"
+		},
+		"AzureSqlDatabaseLS_properties_typeProperties_database": {
+			"value": "adventureworks"
+		},
+		"AzureSqlDatabaseLS_properties_typeProperties_userName": {
+			"value": "dbadmin"
+		},
+		"LS_ADLS_properties_typeProperties_url": {
+			"value": "https://mypracticestraccevejuly.dfs.core.windows.net/"
+		}
+	}
+}
