@@ -1,0 +1,15 @@
+{
+	"name": "mypractidedfevening",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80c081ea-2f49-4b2c-91ee-da3be6f20131",
+		"tenantId": "79d0f34a-e5da-46e6-b49d-a2a4ac56fed0"
+	}
+}
